@@ -35,6 +35,12 @@ If you want to make a Django form or API resource, you'll need to do that yourse
 
 ### Changelog
 
+#### Version 1.6.1:
+
+Fixes:
+
+* Added support for Celery 5.x
+
 #### Version 1.6.0:
 
 Improvements:
